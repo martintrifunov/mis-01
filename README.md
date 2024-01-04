@@ -1,1 +1,1 @@
-# MIS Lab 1
+# MIS LAB 1 193254 Martin Trifunov
